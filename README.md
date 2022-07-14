@@ -1,6 +1,5 @@
 # Sozlash
 Three JS uchun Node dasturini yukalang [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
 
 ``` bash
 # Kerakli kutubxonalarni o'rnatish (faqat bir marta)
