@@ -13,4 +13,6 @@ npm run build
 ```
 
 ## Starter pack mualliflari
+```
 [Bruno Simon](https://threejs-journey.com/), [Design Course](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+```
